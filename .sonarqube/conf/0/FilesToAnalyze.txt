@@ -1,0 +1,14 @@
+﻿C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Controllers\TeacherController.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\DataConnection\ApplicationDbContext.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Migrations\20231226040523_check.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Migrations\20231226040523_check.Designer.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Migrations\AppDbContextModelSnapshot.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Model\Teacher.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Program.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\obj\Debug\net7.0\CreateWebapi.GlobalUsings.g.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\obj\Debug\net7.0\CreateWebapi.AssemblyInfo.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\obj\Debug\net7.0\CreateWebapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\appsettings.Development.json
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\appsettings.json
+C:\Users\kavin.senthil\Desktop\Micrservice Assesment\CreateWebapi\Properties\launchSettings.json
